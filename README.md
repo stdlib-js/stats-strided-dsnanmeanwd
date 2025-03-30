@@ -352,7 +352,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dsnanmean`][@stdlib/stats/strided/dsnanmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values, using extended accumulation, and returning an extended precision result.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanmeanwd`][@stdlib/stats/base/nanmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array, ignoring NaN values and using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/sdsnanmean`][@stdlib/stats/base/sdsnanmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using extended accumulation.</span>
--   <span class="package-name">[`@stdlib/stats-base/snanmeanwd`][@stdlib/stats/base/snanmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/snanmeanwd`][@stdlib/stats/strided/snanmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using Welford's algorithm.</span>
 
 </section>
 
@@ -452,7 +452,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/sdsnanmean]: https://github.com/stdlib-js/stats-base-sdsnanmean
 
-[@stdlib/stats/base/snanmeanwd]: https://github.com/stdlib-js/stats-base-snanmeanwd
+[@stdlib/stats/strided/snanmeanwd]: https://github.com/stdlib-js/stats-strided-snanmeanwd
 
 <!-- </related-links> -->
 
